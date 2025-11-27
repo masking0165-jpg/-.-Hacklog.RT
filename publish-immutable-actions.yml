@@ -1,3 +1,4 @@
+{
 name: 'Publish Immutable Action Version'
 
 on:
@@ -18,3 +19,4 @@ jobs:
       - name: Publish
         id: publish
         uses: actions/publish-immutable-action@0.0.3
+{
