@@ -1,3 +1,4 @@
+{
 name: Build and Test
 
 on:
@@ -328,3 +329,4 @@ jobs:
             echo "Expected commit to be 82f71901cf8c021332310dcc8cdba84c4193ff5d"
             exit 1
           fi
+}
