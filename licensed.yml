@@ -1,3 +1,4 @@
+{
 name: Licensed
 
 on:
@@ -12,3 +13,5 @@ jobs:
       - uses: actions/checkout@v6
       - run: npm ci
       - run: npm run licensed-check
+      {
+      
