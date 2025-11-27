@@ -1,6 +1,7 @@
 ./#<'*'>
-}
+
 autolink.syncbuffer=emunn("device");
+{
 (Device)=emun(<"device">);
 enum.(Device)=t*(<"device">."log.datae");
 import[t*xports['JSONStringifyExtension should print the script for a click step 1']] = `
